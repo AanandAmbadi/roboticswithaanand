@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @roboticswithaanand or you can call me Aanand
+- 👋 Hi, I’m  you can call me Aanand
 - 👀 I’m interested in creating robots,coding,3d designing,video editing
 - 🌱 I’m currently learning python
-- 📫 How to reach me is 2010aanandar@gmail.com
+- 📫 How to reach me in insta @jaada_thendie
 
 <!---
 roboticswithaanand/roboticswithaanand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
